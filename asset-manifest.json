@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/http//LynnONeill.github.io/React-Portfolio/static/css/main.5f361e03.chunk.css",
+    "main.js": "/http//LynnONeill.github.io/React-Portfolio/static/js/main.7148d3a5.chunk.js",
+    "main.js.map": "/http//LynnONeill.github.io/React-Portfolio/static/js/main.7148d3a5.chunk.js.map",
+    "runtime-main.js": "/http//LynnONeill.github.io/React-Portfolio/static/js/runtime-main.ff8b43e5.js",
+    "runtime-main.js.map": "/http//LynnONeill.github.io/React-Portfolio/static/js/runtime-main.ff8b43e5.js.map",
+    "static/js/2.8ce9af67.chunk.js": "/http//LynnONeill.github.io/React-Portfolio/static/js/2.8ce9af67.chunk.js",
+    "static/js/2.8ce9af67.chunk.js.map": "/http//LynnONeill.github.io/React-Portfolio/static/js/2.8ce9af67.chunk.js.map",
+    "index.html": "/http//LynnONeill.github.io/React-Portfolio/index.html",
+    "precache-manifest.9e7d409a09709cb0402049f698dfc7db.js": "/http//LynnONeill.github.io/React-Portfolio/precache-manifest.9e7d409a09709cb0402049f698dfc7db.js",
+    "service-worker.js": "/http//LynnONeill.github.io/React-Portfolio/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/http//LynnONeill.github.io/React-Portfolio/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.8ce9af67.chunk.js.LICENSE.txt": "/http//LynnONeill.github.io/React-Portfolio/static/js/2.8ce9af67.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/http//LynnONeill.github.io/React-Portfolio/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff8b43e5.js",
+    "static/js/2.8ce9af67.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.7148d3a5.chunk.js"
+  ]
+}
