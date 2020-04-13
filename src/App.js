@@ -42,28 +42,28 @@ import NotePic2 from "../src/images/note_taker_screenshot.PNG";
 
 function App( ) {
   return (
-   <div>
-     <Navbar />
-     <Bio 
-     BioPic={BioPic}
-     />
-     <Portfolio
-     StarPic1={StarPic1}
-     StarPic2={StarPic2}
-     PickPic1={PickPic1}
-     PickPic2={PickPic2}
-     PlannerPic1={PlannerPic1}
-     PlannerPic={PlannerPic2}
-     WeatherPic1={WeatherPic1}
-     WeatherPic={WeatherPic2}
-     BurgerPic1={BurgerPic1}
-     BurgerPic={BurgerPic2}
-     NotePic1={NotePic1}
-     NotePic = {NotePic2}
-     />
-     <Contact />
-    <Footer />
-    
+      <div>
+        <Navbar/>
+          <Bio 
+            BioPic={BioPic}
+          />
+          <Portfolio
+            StarPic1={StarPic1}
+            StarPic2={StarPic2}
+            PickPic1={PickPic1}
+            PickPic2={PickPic2}
+            PlannerPic1={PlannerPic1}
+            PlannerPic={PlannerPic2}
+            WeatherPic1={WeatherPic1}
+            WeatherPic={WeatherPic2}
+            BurgerPic1={BurgerPic1}
+            BurgerPic={BurgerPic2}
+            NotePic1={NotePic1}
+            NotePic = {NotePic2}
+        />
+        <Contact />
+        <Footer />
+    {/* </Switch> */}
    </div>
   );
 }

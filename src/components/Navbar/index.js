@@ -1,4 +1,5 @@
 import React from "react";
+import Resume from "../../assets/resume.pdf";
 
 function Navbar() {
     return (
@@ -20,7 +21,7 @@ function Navbar() {
                             <a class="nav-link" href="#bottom">Contact</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="assets/resume.pdf">Resume</a>
+                            <a class="nav-link" href={Resume}>Resume</a>
                         </li>
                     </ul>
                 </div>
